@@ -5,3 +5,7 @@
 ##### Markdown Example 5 
 ###### Markdown Example 6 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+``` javascript
+var myVar = "Hello, world!";
+```
+
